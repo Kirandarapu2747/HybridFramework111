@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T11:16:11 IST" name="Suite" finished-at="2024-01-08T11:16:33 IST" duration-ms="22750">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T11:16:11 IST" name="Test" finished-at="2024-01-08T11:16:33 IST" duration-ms="22750">
+      <class name="TestCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:TestCases.TC_LoginTest_001@303cf2ba]" started-at="2024-01-08T11:16:11 IST" name="openApplication" finished-at="2024-01-08T11:16:27 IST" duration-ms="15996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="logintest()[pri:0, instance:TestCases.TC_LoginTest_001@303cf2ba]" started-at="2024-01-08T11:16:27 IST" name="logintest" finished-at="2024-01-08T11:16:33 IST" duration-ms="5824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:TestCases.TC_LoginTest_001@303cf2ba]" started-at="2024-01-08T11:16:33 IST" name="CloseApplication" finished-at="2024-01-08T11:16:33 IST" duration-ms="779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+      </class> <!-- TestCases.TC_LoginTest_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
