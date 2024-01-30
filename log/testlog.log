@@ -1,0 +1,133 @@
+2024-01-12 12:11:26,384 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-12 12:11:28,392 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-12 12:11:31,006 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-12 16:44:51,797 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-12 16:44:53,816 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-12 16:44:55,927 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-17 13:05:33,652 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-17 13:05:35,674 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-17 13:05:37,947 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-17 13:05:37,990 - TestCases.TC_LoginTest_001 -INFO - Testcase is Passed
+2024-01-17 13:06:36,307 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-17 13:06:38,325 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-17 13:06:40,654 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-17 13:11:25,762 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-17 13:11:27,782 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-17 13:11:30,402 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-17 13:16:05,396 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-17 13:16:07,408 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-17 13:16:09,661 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-17 13:16:09,979 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-17 13:16:09,980 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-23 12:22:59,205 - TestCases.AdminTest_002 -INFO - username is enterred
+2024-01-23 12:23:02,028 - TestCases.AdminTest_002 -INFO - password is entered
+2024-01-23 12:23:04,836 - TestCases.AdminTest_002 -INFO - login button clicking activity is completed
+2024-01-23 12:23:07,604 - TestCases.AdminTest_002 -INFO - admin button clicking activity completed
+2024-01-23 12:23:09,709 - TestCases.AdminTest_002 -INFO - add button clicking activity completed
+2024-01-23 12:25:31,614 - TestCases.AdminTest_002 -INFO - username is enterred
+2024-01-23 12:25:33,808 - TestCases.AdminTest_002 -INFO - password is entered
+2024-01-23 12:25:35,192 - TestCases.AdminTest_002 -INFO - login button clicking activity is completed
+2024-01-23 12:25:37,581 - TestCases.AdminTest_002 -INFO - admin button clicking activity completed
+2024-01-23 12:25:39,366 - TestCases.AdminTest_002 -INFO - add button clicking activity completed
+2024-01-23 12:28:39,336 - TestCases.AdminTest_002 -INFO - username is enterred
+2024-01-23 12:28:41,658 - TestCases.AdminTest_002 -INFO - password is entered
+2024-01-23 12:28:42,786 - TestCases.AdminTest_002 -INFO - login button clicking activity is completed
+2024-01-23 12:28:46,265 - TestCases.AdminTest_002 -INFO - admin button clicking activity completed
+2024-01-23 12:28:48,011 - TestCases.AdminTest_002 -INFO - add button clicking activity completed
+2024-01-23 12:32:36,435 - TestCases.AdminTest_002 -INFO - username is enterred
+2024-01-23 12:32:38,702 - TestCases.AdminTest_002 -INFO - password is entered
+2024-01-23 12:32:39,753 - TestCases.AdminTest_002 -INFO - login button clicking activity is completed
+2024-01-23 12:32:43,150 - TestCases.AdminTest_002 -INFO - admin button clicking activity completed
+2024-01-23 12:32:45,068 - TestCases.AdminTest_002 -INFO - add button clicking activity completed
+2024-01-23 12:33:12,349 - TestCases.AdminTest_002 -INFO - username is enterred
+2024-01-23 12:33:14,604 - TestCases.AdminTest_002 -INFO - password is entered
+2024-01-23 12:33:14,809 - TestCases.AdminTest_002 -INFO - login button clicking activity is completed
+2024-01-23 12:33:18,351 - TestCases.AdminTest_002 -INFO - admin button clicking activity completed
+2024-01-23 12:33:20,319 - TestCases.AdminTest_002 -INFO - add button clicking activity completed
+2024-01-23 12:35:04,074 - TestCases.AdminTest_002 -INFO - username is enterred
+2024-01-23 12:35:06,318 - TestCases.AdminTest_002 -INFO - password is entered
+2024-01-23 12:35:07,276 - TestCases.AdminTest_002 -INFO - login button clicking activity is completed
+2024-01-23 12:35:11,455 - TestCases.AdminTest_002 -INFO - admin button clicking activity completed
+2024-01-23 12:35:13,441 - TestCases.AdminTest_002 -INFO - add button clicking activity completed
+2024-01-24 15:02:10,672 - TestCases.AdminTest_002 -INFO - username is enterred
+2024-01-24 15:02:13,258 - TestCases.AdminTest_002 -INFO - password is entered
+2024-01-24 15:02:16,177 - TestCases.AdminTest_002 -INFO - login button clicking activity is completed
+2024-01-24 15:02:20,484 - TestCases.AdminTest_002 -INFO - admin button clicking activity completed
+2024-01-24 15:02:23,020 - TestCases.AdminTest_002 -INFO - add button clicking activity completed
+2024-01-24 15:12:48,169 - TestCases.AdminTest_002 -INFO - username is enterred
+2024-01-24 15:12:50,575 - TestCases.AdminTest_002 -INFO - password is entered
+2024-01-24 15:12:51,677 - TestCases.AdminTest_002 -INFO - login button clicking activity is completed
+2024-01-24 15:12:55,887 - TestCases.AdminTest_002 -INFO - admin button clicking activity completed
+2024-01-24 15:12:57,654 - TestCases.AdminTest_002 -INFO - add button clicking activity completed
+2024-01-24 15:15:22,984 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-24 15:15:25,008 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-24 15:15:27,169 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-24 15:15:27,499 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-24 15:15:27,499 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-24 15:26:44,162 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-24 15:26:46,199 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-24 15:26:48,439 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-24 15:26:48,785 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-24 15:26:48,786 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-24 15:34:48,951 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-24 15:34:51,396 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-24 15:34:55,506 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-24 15:34:55,850 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-24 15:34:55,851 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-25 16:19:27,295 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-25 16:19:29,320 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-25 16:19:31,488 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-25 16:19:32,031 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-25 16:19:32,032 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-25 16:25:48,251 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-25 16:25:50,299 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-25 16:25:52,430 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-25 16:25:52,757 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-25 16:25:52,758 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-25 16:29:14,098 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-25 16:29:16,114 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-25 16:29:18,324 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-25 16:29:18,692 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-25 16:29:18,693 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-25 16:53:16,639 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-25 16:53:18,665 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-25 16:53:20,877 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-25 16:53:21,251 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-25 16:53:21,252 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-30 15:02:49,033 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-30 15:02:51,053 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-30 15:06:26,869 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-30 15:06:28,904 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-30 15:06:31,055 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-30 15:06:31,746 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-30 15:06:31,747 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-30 15:08:03,490 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-30 15:08:05,528 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-30 15:08:07,741 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-30 15:08:08,262 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-30 15:08:08,263 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-30 15:10:43,863 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-30 15:10:46,091 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-30 15:10:50,062 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-30 15:10:50,386 - TestCases.TC_LoginTest_001 -INFO - screenshot is taken
+2024-01-30 15:10:50,387 - TestCases.TC_LoginTest_001 -INFO - Screenshot is taken
+2024-01-30 15:13:12,386 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-30 15:13:14,958 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-30 15:13:18,942 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-30 15:13:18,977 - TestCases.TC_LoginTest_001 -INFO - Testcase is Passed
+2024-01-30 15:14:53,992 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-30 15:14:56,195 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-30 15:15:00,524 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-30 15:15:00,659 - TestCases.TC_LoginTest_001 -INFO - Testcase is Passed
+2024-01-30 15:16:00,788 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-30 15:16:13,366 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-30 15:16:17,216 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-30 15:16:17,306 - TestCases.TC_LoginTest_001 -INFO - Testcase is Passed
+2024-01-30 15:23:19,517 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-30 15:23:21,828 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-30 15:23:27,394 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-30 15:23:27,432 - TestCases.TC_LoginTest_001 -INFO - Testcase is Passed
+2024-01-30 15:27:54,155 - TestCases.TC_LoginTest_001 -INFO - username is entered
+2024-01-30 15:27:56,851 - TestCases.TC_LoginTest_001 -INFO - password is entered
+2024-01-30 15:28:01,466 - TestCases.TC_LoginTest_001 -INFO - login btn clicking activity is completed
+2024-01-30 15:28:01,533 - TestCases.TC_LoginTest_001 -INFO - Testcase is Passed

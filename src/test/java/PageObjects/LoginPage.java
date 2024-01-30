@@ -27,11 +27,11 @@ public class LoginPage {
 	
 	//create corresponding methods
 	
-	public void setUsername() {
-		txtusername.sendKeys("mahesh23456");
+	public void setUsername(String uname) {
+		txtusername.sendKeys(uname);
 	}
-	public void setPassword() {
-		txtpassword.sendKeys("India@123");
+	public void setPassword(String pword) {
+		txtpassword.sendKeys(pword);
 	}
 	
 	public void ClickLoginbtn() {
