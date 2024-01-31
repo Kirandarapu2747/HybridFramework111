@@ -60,6 +60,8 @@ public class Reporting implements ITestListener {
 		String Screenshotpath=System.getProperty("user.dir")+"\\Screenshots\\"+tr.getName()+".png";
 		File f=new File(Screenshotpath);
 		
+		
+		
 		if(f.exists()) {
 			try {
 				test.fail("screenshot is below:"+test.addScreenCaptureFromPath(Screenshotpath));
